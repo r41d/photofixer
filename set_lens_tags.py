@@ -3,6 +3,7 @@
 import os
 
 import pyexif  # it's this one -> https://pypi.org/project/pyexif
+# TODO: migrate to py3exiv2
 
 from photofixerconfig import EXTENSIONS
 
